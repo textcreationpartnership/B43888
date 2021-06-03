@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The genteel companion being exact directions for the recorder : with a collection of the best and newest tunes and grounds extant / carefully composed and gathered by Humphry Salter.</title>
+            <author>Salter, Humphrey.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43888</idno><idno type="EEBO-CITATION">318212054</idno>
+  <idno type="VID">208408</idno>
+  <idno type="EEBO-PROQUEST">2240917239</idno>
+  
+            <idno type="OCLC"> 318212054</idno>
+            <idno type="OCLC">ocn 318212054</idno>
+            <idno type="STC">Wing S464</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208408)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2943:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The genteel companion being exact directions for the recorder : with a collection of the best and newest tunes and grounds extant / carefully composed and gathered by Humphry Salter.</title>
+                  <author>Salter, Humphrey.</author>
+               </titleStmt>
+               <extent>[5], 8, [50] p. : ill., music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Hunt and Humphry Salter at the Lute in St. Pauls Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes "Directions for the recorder" on 8 p. and [50] p. of music.</note>
+                  <note>Reproduction of original in: Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Recorder (Musical instrument) --  Instruction and study --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:208408:1"/>
+            <p>
+               <figure>
+                  <head>Lessons for The Recorder</head>
+                  <figDesc>engraving of man playing a recorder and woman listening</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:208408:1"/>
+            <p>THE Genteel Companion; Being exact Directions for the RECORDER: With a Collection of the Best and Newest <hi>Tunes</hi> and <hi>Grounds</hi> Extant.</p>
+            <p>Carefully Composed and Gathered by <hi>Humphry Salter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Hunt</hi> and <hi>Humphry Salter,</hi> at the <hi>Lute</hi> in St. <hi>Pauls</hi> Church-Yard. 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:208408:2"/>
+            <pb facs="tcp:208408:2"/>
+            <head>To all Ingenious Lovers of musicK.</head>
+            <p>
+               <hi>I</hi> Might at well endeavour to perswade, that the Sun is a glorious, and beneficial Planet; as take pains to Illustrate Musick with my imperfect praises; for every reasonable Mans own mind will be its Advocate. Musick, belov'd of Heaven, for it is the business of Angels; Desired on Earth as the most charming pleasure of Men. The world contains nothing that is good, but what is full of Harmonious Concord, nor nothing that is evil, but it is opposite, as being the ill favour'd production of Discord and Disorder. I dare affirm, those that love not Musick (if there be any such) are Dissenters from Ingenuity, and Rebels to the Monarchy of Reason.</p>
+            <pb facs="tcp:208408:3"/>
+            <p>Of the kinds of Musick, Vocal has always had the Preference in esteem: and by consequence the Recorder (as approaching nearest to the sweet delightfulness of the Voice) ought to have the first place in Opinion as we see by the Ʋniversal use of it confirm'd.</p>
+            <p>For the assistance and improvement of all the Lovers of it, I have with great care made this Col<g ref="char:EOLhyphen"/>lection of the Best and Newest Tunes extant; and for the advantage of Beginners, that have not the help of a Master to Instruct them, I have placed in the beginning some easy Tunes with Dots un<g ref="char:EOLhyphen"/>der the Violin Notes, by which means they may confirm themselves in the manner of Playing every Note.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="instructions_in_music">
+               <pb n="1" facs="tcp:208408:3"/>
+               <head>Directions for the Recorder.</head>
+               <p>THE first thing that I desire you to observe, is the way of holding your <hi>Recor<g ref="char:EOLhyphen"/>der</hi> when you Play, for it is a great matter in the helping you to play readily, and except you are diligent at the first to learn what is directed here; but through your own negligence you get some ill way, which will be harder to leave, than to learn the Right; but to prevent you in such a fault, is the cause of my putting you in mind, before I proceed to the Directions.</p>
+               <div type="part">
+                  <head>Of holding the Recorder.</head>
+                  <p>HOld your <hi>Recorder</hi> with your left hand next your Mouth, putting your second Finger of your left hand on the third hole, then put your third Finger of your right hand on the
+<pb n="2" facs="tcp:208408:4"/> seventh hole with the Thumb of your right hand underneath, the which Finger and Thumb held thus, are for a stay to keep it to your Mouth, and to make it more tuneable, and also to keep your Fingers in Order over the rest of the holes. These things being observed, and done right, you may proceed and try to play the first Example.</p>
+               </div>
+               <div type="part">
+                  <head>The manner of playing on the <hi>Recorder</hi> the Dot way.</head>
+                  <p>THere are two ways of setting Tunes for the <hi>Recorder</hi> the Dot way; some sets them on seven Lines, some on six, which is the general way, and it is in my opinion, the best, for more do but hinder the readiness of sight, and when the other two are wanted I make a short line underneath; and these six Lines are appropriated to the first six Holes of the Pipe; and the first hole is, that underneath which you must stop with your Thumb, and the upper<g ref="char:EOLhyphen"/>most Line belongs to that hole; the second hole is the next to that above the <hi>Recorder,</hi> and you are to stop that with your first Finger, and the second line is for that; the third is to be stopt with your second Finger, and the third Line is for that; the fourth hole is to be stopt with your third Finger, and the fourth Line is for that; the fift hole is to
+<pb n="3" facs="tcp:208408:4"/> be stopt with the first Finger of your right hand, and the fifth Line is for that; the sixth hole is to be stopt with your second Finger of your right hand, and the sixth Line is for that. The seventh hole is to be stopt with your third finger of your right hand which must be kept on in all but pincht Notes, both for the Commodious holding of your Pipe, and for the true<g ref="char:EOLhyphen"/>ness of the Notes, for which reason the second finger of your left hand must likewise be kept on in all Notes but <hi>Ela.</hi> The eighth hole is stopt with the little finger of your right hand. But to instruct you Better in these, I have set the first example of the Eight Notes ascending and descending on seven Lines only, to make you understand the right holding of the <hi>Recor<g ref="char:EOLhyphen"/>der</hi> for the playing the rest of the Tunes.</p>
+               </div>
+               <div type="part">
+                  <head>Directions for playing the first Example of the plain Notes Ascending.</head>
+                  <p n="1">1. BLow gently, stopping all the holes is eight Dots, up with the little finger of your right hand is seven Dots.</p>
+                  <p n="2">2. Up with the third finger of your right hand is six Dots.</p>
+                  <p n="3">3. Up with the first finger of your right hand, and down again with your third finger of your right hand is five Dots.</p>
+                  <pb n="4" facs="tcp:208408:5"/>
+                  <p>The lowest Dot being only to show the Learner how he shall use that finger in the Tunes that follow, where there is but six Lines.</p>
+                  <p n="4">4. Up with your second finger of your right hand is four Dots.</p>
+                  <p n="5">5. Up with the third finger of your left hand is three Dots.</p>
+                  <p n="6">6. Up with the second finger of your left hand is two Dots.</p>
+                  <p n="7">7. Up with the first finger of your left hand, and down with the second finger of the same hand is two Dots, stopping your second finger of your left hand on the third hole is one Dot with a Cypher.</p>
+               </div>
+               <div type="part">
+                  <head>Directions for playing the plain Notes Descending.</head>
+                  <p n="1">1. BLow gently, holding all off but your second finger of your left hand, and the third finger of your right hand.</p>
+                  <p n="2">2. Stop with your Thumb of your left hand is two Dots divided.</p>
+                  <p n="3">3. Take off your second finger of your left hand, and stop with the first finger of the same hand is two Dots.</p>
+                  <p n="4">
+                     <pb n="5" facs="tcp:208408:5"/>4. Stop with your second Finger of your left hand is three Dots.</p>
+                  <p n="5">5. Stop with your third finger of your left hand is four Dots.</p>
+                  <p n="6">6. Stop with your second Finger of your right hand is five Dots.</p>
+                  <p n="7">7. Take off your third finger of your right hand, and put on the first finger of the same is six Dots.</p>
+                  <p n="8">8. Stop your third finger of your right hand on the seventh hole is seven Dots.</p>
+                  <p n="9">9. Stop with your little finger on the lowest hole is eight Dots.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Pinching Notes on the <hi>Recorder.</hi>
+                  </head>
+                  <p>YOur Pinching Notes ascend higher than the plain Notes, and are distinguished from them by a dash drawn through the first Dot on the uppermost Line, making it as a Cross; as in the following example you may see, to play these on the <hi>Recorder,</hi> you must bend your left Thumb, and let it be half over the hole underneath the Pipe, for that belongs to the upper Line, where the pinch is made, and pinch the Nail of your Thumb in the hole, then blow your <hi>Recorder</hi> a little stronger than you did when you played the other Notes, and
+<pb n="6" facs="tcp:208408:6"/> you shall find the <hi>Recorder</hi> sound eight Notes higher, all the other stops are the same as the former.</p>
+               </div>
+               <div type="part">
+                  <head>Directions for the Graces on the <hi>Recorder.</hi>
+                  </head>
+                  <p>IN the following Example of Graces this  is the Character of a Beat, and is performed by shaking your Finger upon that hole which Line where it stands directs, and leaving it on; this  is the Character of a Shake, and is performed by shaking your finger on the hole direc<g ref="char:EOLhyphen"/>ted and leaving it off.  ͜  The third Made for a slur or slide, that is, when two or three Notes are tyed together by a crooked dash underneath, then those two or three Notes must be ex<g ref="char:EOLhyphen"/>pressed with one Breath. The fourth Grace is called a Slur and Beat, and is played thus, hit your first Note with the Tip of your Tongue, and continuing your Breath take up your second, and bring on the first Beating. The other Shake is the double Shake, and is played by shaking your fourth Finger of your left hand, holding those fingers on that the Dots belong to, both in the Example, and in the following Tunes. In the Tunes prickt with Violin Notes only, I have placed over the Notes that are to be shook on, this mark  , and over those that are to be shook off this  and for the double shake this </p>
+               </div>
+               <div type="part">
+                  <pb n="7" facs="tcp:208408:6"/>
+                  <head>Of the Time or Proportion of the Notes.</head>
+                  <p>THere is two sorts of Time which are used in the Tunes following, and they are called Common Time, and Tripple Time, the Common Time is multiplied by two; as one Semibrief is two Minnums, and a Minnum is two Crotchets, and a Crotchet two Quavers, and one Quaver is two Semiquavers. Now to know those that are Common Time from Tripple; observe, that those that are barr'd with the length of four Crotchets in each Barr, are Common Time; Tripple Time is multiplyed by three, the Notes having a prick added to it; as one Minnum with a prick is three Crotchets, and so is Barr'd with three or six in all Tunes that are Tripple Time. This you must observe, where you see a prick follow a Note, either in Tripple or Common Time, it adds half as much to that Note, which goes before it, as the length of the Note is, that is, if the Note be a Minnum, then the prick or tittle is a Crotchet, and so in all the rest of the Time, let the prick follow what time soever,
+<pb n="8" facs="tcp:208408:7"/> all the Examples are placed in the Page before the Tunes, being thought most convenient to lye before you when you first begin to play.</p>
+                  <p>Observing further, that these Lessons set Dot-way if you have a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>otchet, or a Quaver, or any other Note set over the Dots, and there follow three or four Not<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> or Sounds, which have none over them, then these Notes or Sounds so following, are to be p<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ed to the same measure, till the next Time or Note alters it.</p>
+                  <p>For those that are minded to learn the Gammut-way, on this Instrument, I have set the Scale of Flats and Sharps the Page before these Tunes, that are set Both-ways, which with a small Observation, the Learner may soon attain to his satisfaction.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="basics_of_music_notation">
+               <div type="gamut">
+                  <pb facs="tcp:208408:7"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label" cols="13">The first Table of Plaine Notes Assending</cell>
+                           <cell role="label">Example of Shaks &amp; Beats</cell>
+                        </row>
+                        <row>
+                           <cell rows="2">The Severall Notes as thay Assend on Rule and space by the G Solre v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Clisse</cell>
+                           <cell cols="13">
+                              <gap reason="music" extent="13 notes">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                           </cell>
+                           <cell>
+                              <gap reason="music" extent="3 bars">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>F fa at</cell>
+                           <cell>G sol re at</cell>
+                           <cell>A la mj re</cell>
+                           <cell>B fabmj</cell>
+                           <cell>C sol fa</cell>
+                           <cell>D la sol</cell>
+                           <cell>E la</cell>
+                           <cell>F fa ut</cell>
+                           <cell>G sol re ut</cell>
+                           <cell>A la mj re</cell>
+                           <cell>B fabmj</cell>
+                           <cell>C sol fa</cell>
+                           <cell>D la sol</cell>
+                           <cell>A Beat on A shak of A slur</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Left Hand
+<list>
+                                    <item>Thumb</item>
+                                    <item>First Finger,</item>
+                                    <item>Second Finger,</item>
+                                    <item>Third Finger,</item>
+                                 </list>
+                              </p>
+                              <p>Right Hand
+<list>
+                                    <item>First Finger</item>
+                                    <item>Second Finger</item>
+                                    <item>Third Finger,</item>
+                                    <item>Forth Finger,</item>
+                                 </list>
+                              </p>
+                           </cell>
+                           <cell cols="13">
+                              <gap reason="music" extent="1 span">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                           </cell>
+                           <cell>
+                              <gap reason="music" extent="2 bars">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                              <p>A slur &amp; Beat on Dub: shak of</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label" cols="13">The Names of the Notes</cell>
+                           <cell cols="13">Semibreve: Minim: Crotchet<gap reason="music" extent="3 bars">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell cols="13">
+                              <p>Semibreves Minims Crotchets Quavers Semiquavers </p>
+                              <gap reason="music" extent="5 bars">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                           </cell>
+                           <cell>
+                              <p>Quavers Rest: Semiqua Rest</p>
+                              <gap reason="music" extent="2 bars">
+                                 <desc>〈♫〉</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="scales_and_times">
+                  <pb facs="tcp:208408:8"/>
+                  <pb facs="tcp:208408:8"/>
+                  <p>
+                     <figure>
+                        <head>A Scale of all the Notes gradually Assending both Flat and Sharp.</head>
+                        <figDesc>chart of musical scale</figDesc>
+                        <p>
+                           <gap reason="music">
+                              <desc>〈♫〉</desc>
+                           </gap>
+                        </p>
+                        <p>
+                           <list>
+                              <item>A Beat on </item>
+                              <item>A Shake of </item>
+                              <item>A Duble shake of </item>
+                              <item>A slur  ͜ </item>
+                              <item>A Flat ♭</item>
+                              <item>A Sharp ♯</item>
+                           </list>
+                        </p>
+                        <head>This Table directs and is a guide to know all y<seg rend="sup">e</seg> stops upon y<seg rend="sup">e</seg> Recorder or Flute, both Flat &amp; sharp, or the half Notes ascending &amp; descending according to the Scale of Musick.</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>chart illustrating tempo</figDesc>
+                        <p>
+                           <list>
+                              <head>Common Time</head>
+                              <item>{semibreve note}
+<list>
+                                    <item>{minim note} {minim note}
+<list>
+                                          <item>{quaver note} {quaver note} {quaver note} {quaver note}
+<list>
+                                                <item>{semiquaver note} {semiquaver note} {semiquaver note} {semiquaver note} {semiquaver note} {semiquaver note} {semiquaver note} {semiquaver note}
+<list>
+                                                      <item>{demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note} {demisemiquaver note}
+</item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                           <list>
+                              <head>Triple Time by 3 Minims</head>
+                              <item>{semibreve note}
+<list>
+                                    <item>{minim note} {minim note} {minim note}
+<list>
+                                          <item>{minim note} 
+<list>
+                                                <item>{quaver note} {quaver note} {quaver note}
+<list>
+                                                      <item>{quaver note} 
+<list>
+                                                            <item>{semiquaver note} {semiquaver note} {semiquaver note}
+</item>
+                                                         </list>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </p>
+               </div>
+            </div>
+            <div type="scores">
+               <div type="song">
+                  <pb facs="tcp:208408:9"/>
+                  <pb n="1" facs="tcp:208408:9"/>
+                  <head>Twas Woman mad me love</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="2" facs="tcp:208408:10"/>
+                  <head>Haile to the Merttaille shades</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="3" facs="tcp:208408:10"/>
+                  <head>Joy to the bridegroome</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="4" facs="tcp:208408:11"/>
+                  <head>Ah Cruell Bloudy Fate.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="5" facs="tcp:208408:11"/>
+                  <head>A Minuvey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="6" facs="tcp:208408:12"/>
+                  <head>Bright was the morning</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="7" facs="tcp:208408:12"/>
+                  <head>An Aire</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="8" facs="tcp:208408:13"/>
+                  <head>A Iigg</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="9" facs="tcp:208408:13"/>
+                  <head>Let Oliver now be forgotten</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="10" facs="tcp:208408:14"/>
+                  <head>Hey Boyes up goe wee</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="11" facs="tcp:208408:14"/>
+                  <head>How pleasant are the Charms of Love</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="12" facs="tcp:208408:15"/>
+                  <head>A Minnuey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <stage>2 time first time</stage>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="13" facs="tcp:208408:15"/>
+                  <head>A Minuwey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Fancey.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="14" facs="tcp:208408:16"/>
+                  <head>A Song in the Duke of guies</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <div n="bass" type="part">
+                     <head>y<seg rend="sup">e</seg> base</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div type="song">
+                  <pb n="15" facs="tcp:208408:16"/>
+                  <head>Tell me Thirsis</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="16" facs="tcp:208408:17"/>
+                  <head>Remember ye Wiggs</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="17" facs="tcp:208408:17"/>
+                  <head>Ah Jenney gin.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Round O.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="18" facs="tcp:208408:18"/>
+                  <head>An Ayre</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A. gauot</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="19" facs="tcp:208408:18"/>
+                  <head>On night her blackest Sable<seg rend="sup">s</seg> where.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>Young Iemey.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="20" facs="tcp:208408:19"/>
+                  <head>A Ayre</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Ayre or Londons Loyaltey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="21" facs="tcp:208408:19"/>
+                  <head>Could man his wish obtaine</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="22" facs="tcp:208408:20"/>
+                  <head>On the banck of a River.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>Sawney and Iockey.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="23" facs="tcp:208408:20"/>
+                  <head>A Minewey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Minewey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="24" facs="tcp:208408:21"/>
+                  <head>A Trumppet tune</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Bore</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="25" facs="tcp:208408:21"/>
+                  <head>A Fancey.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A French Minuwey.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>An Overture</head>
+                  <pb n="26-27" facs="tcp:208408:22"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Iigg.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="28" facs="tcp:208408:23"/>
+                  <head>A Maggit</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Horn pipe.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="29" facs="tcp:208408:23"/>
+                  <head>An Aire</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Maggit.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="30" facs="tcp:208408:24"/>
+                  <head>A Round O</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A. Bore</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="31" facs="tcp:208408:24"/>
+                  <head>A. Slow Maggitt</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A. Ffrench Minnuett</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Minnuett</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="32" facs="tcp:208408:25"/>
+                  <head>Round :O:</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Fancy</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="33" facs="tcp:208408:25"/>
+                  <head>Happy is y<seg rend="sup">e</seg> Country life</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>Bred a gad</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="34-35" facs="tcp:208408:26"/>
+                  <head>The End of M<seg rend="sup">r</seg>. Reddins ground. </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <div n="bass" type="part">
+                     <head>The Basse to it.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div type="song">
+                  <pb n="36" facs="tcp:208408:27"/>
+                  <head>A trumpit tune</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>Now the Toryes the Gloryes</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="37" facs="tcp:208408:27"/>
+                  <head>Captaine Vratze farwell</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Horne Pipe</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="38-39" facs="tcp:208408:28"/>
+                  <head>Old Simon the King</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="40-41" facs="tcp:208408:29"/>
+                  <head>The end of M<seg rend="sup">r</seg>. Fardinels ground</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="42" facs="tcp:208408:30"/>
+                  <head>A Minnuey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Borey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:208408:30"/>
+                  <head>the Irish houle</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Iigg</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="2" facs="tcp:208408:31"/>
+                  <head>A Boree</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Slow Minnuey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="3" facs="tcp:208408:31"/>
+                  <head>A Slow Ayre</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A Minnuett</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:208408:32"/>
+                  <head>The Kings health</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <pb facs="tcp:208408:32"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <trailer>the end of the helth</trailer>
+               </div>
+               <div type="song">
+                  <head>A Song, sence other beautys charmes your hart</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="6" facs="tcp:208408:33"/>
+                  <head>Hedg lane</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A. Minnuett</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <pb facs="tcp:208408:33"/>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:208408:34"/>
+                  <head>A French Minnua</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>The Granaders march</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <pb facs="tcp:208408:34"/>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:208408:35"/>
+                  <head>State &amp; Ambition</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>M<seg rend="sup">r</seg> Farmers Borey</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <pb facs="tcp:208408:35"/>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:208408:36"/>
+                  <head>I never saw a Face till now</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <pb facs="tcp:208408:36"/>
+                  <pb facs="tcp:208408:37"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
